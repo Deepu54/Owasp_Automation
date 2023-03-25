@@ -1,0 +1,24 @@
+{
+    "baseUrl":"https://juice-shop.herokuapp.com/#/",
+    "firstName":"Deepu",
+    "lastName":"Bhat",
+    "firstEmail":"Deepubhat",
+    "lastEmail":"@gmail.com",
+    "Address":"amroli,surat Gujarat",
+    "password":"password123",
+    "confirmPassword":"password123",
+    "cameraSearch":"camera",
+    "SecurityAnswer": "abc",
+    "company":"Alphabin",
+    "postalcode":"394105",
+    "phonenumber":"7780832128",
+    "city" : "surat uttran",
+    "credit card":"Discover",
+    "card":"6011111111111117",
+    "cvv": "387",
+    "state": "Testing",
+    "country":"India",
+
+    "securityAnswer":"none",    
+    "userName":"yoyoyo"
+}
